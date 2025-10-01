@@ -5,7 +5,6 @@ This is the food plaza management System Project. This Project Consist of four m
 3) Cart Module is for Adding , Updating , Deleting Food by their  emailid .
 4) Order Module is for place the order by their EmailId. we can do the actions like cancel order or update the order status etc .
 I implemented the basic Authentication using the MYSQL and Java . I connect this Application through the JDBC.
-
 Technology used in this project : JAVA , JDBC , MYSQL.
 
 ADVANTAGES  :

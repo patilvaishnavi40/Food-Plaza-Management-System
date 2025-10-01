@@ -12,4 +12,3 @@ ADVANTAGES  :
 2) Time Saving
 3) Cart System
 4) Better Management
-   
